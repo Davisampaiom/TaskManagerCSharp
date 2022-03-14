@@ -1,0 +1,15 @@
+C:\Users\Davi\Desktop\exerciciosDIo\taskManager\TaskManager\bin\Debug\net6.0-windows\TaskManager.exe
+C:\Users\Davi\Desktop\exerciciosDIo\taskManager\TaskManager\bin\Debug\net6.0-windows\TaskManager.deps.json
+C:\Users\Davi\Desktop\exerciciosDIo\taskManager\TaskManager\bin\Debug\net6.0-windows\TaskManager.runtimeconfig.json
+C:\Users\Davi\Desktop\exerciciosDIo\taskManager\TaskManager\bin\Debug\net6.0-windows\TaskManager.dll
+C:\Users\Davi\Desktop\exerciciosDIo\taskManager\TaskManager\bin\Debug\net6.0-windows\TaskManager.pdb
+C:\Users\Davi\Desktop\exerciciosDIo\taskManager\TaskManager\obj\Debug\net6.0-windows\TaskManager.csproj.AssemblyReference.cache
+C:\Users\Davi\Desktop\exerciciosDIo\taskManager\TaskManager\obj\Debug\net6.0-windows\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\Desktop\exerciciosDIo\taskManager\TaskManager\obj\Debug\net6.0-windows\TaskManager.AssemblyInfoInputs.cache
+C:\Users\Davi\Desktop\exerciciosDIo\taskManager\TaskManager\obj\Debug\net6.0-windows\TaskManager.AssemblyInfo.cs
+C:\Users\Davi\Desktop\exerciciosDIo\taskManager\TaskManager\obj\Debug\net6.0-windows\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\Davi\Desktop\exerciciosDIo\taskManager\TaskManager\obj\Debug\net6.0-windows\TaskManager.dll
+C:\Users\Davi\Desktop\exerciciosDIo\taskManager\TaskManager\obj\Debug\net6.0-windows\refint\TaskManager.dll
+C:\Users\Davi\Desktop\exerciciosDIo\taskManager\TaskManager\obj\Debug\net6.0-windows\TaskManager.pdb
+C:\Users\Davi\Desktop\exerciciosDIo\taskManager\TaskManager\obj\Debug\net6.0-windows\TaskManager.genruntimeconfig.cache
+C:\Users\Davi\Desktop\exerciciosDIo\taskManager\TaskManager\obj\Debug\net6.0-windows\ref\TaskManager.dll
